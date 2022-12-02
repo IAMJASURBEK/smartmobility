@@ -1,4 +1,4 @@
-# Smart Mobility Engineering
+# Smart Mobility Engineering Week 14
 For Smart Mobility Engineering course.
 In this week, I trained the model with convolutional neural networks  followed by MaxPooling and Dense layers. 
 As we do not have much classes and 
