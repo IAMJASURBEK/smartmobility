@@ -1,5 +1,5 @@
-# ISE_CapstoneDesign
-For ISE_CapstoneDesign course.
+# Smart Mobility Engineering
+For Smart Mobility Engineering course.
 In this week, I trained the model with convolutional neural networks  followed by MaxPooling and Dense layers. 
 As we do not have much classes and 
 the images are enormously different we got over 95 % accuracy. There is no overfitting or underfitting problem occured. 
